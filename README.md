@@ -1,4 +1,4 @@
-# Running OCaml in Haskell
+# Coding in OCaml using Haskell
 
 You love Haskell, but you are bored with lazyness ?
 
