@@ -25,3 +25,5 @@ Or, you would prefer to read the words of an expert ([The Expert](http://pauilla
 You really want to become a master huh ? Try the usual starter [Wikipedia](https://en.wikipedia.org/wiki/Continuation).
 
 Does an expert explains that ? ([The Expert](http://pauillac.inria.fr/~xleroy/mpri/2-4/transformations.pdf) (start at slide 49)).
+
+Yes, I like parenthesis.
