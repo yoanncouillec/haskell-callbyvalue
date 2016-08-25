@@ -16,4 +16,4 @@ Expression to evaluate is hard-coded. What you think ? I am going to make a gene
 
 ## What on earth are call-by-value and call-by-name ?
 
-You can check what everybody will read [wikipedia](https://en.wikipedia.org/wiki/Evaluation_strategy) which is a very good introduction to those concepts, or you would prefer to read words of "the king" [xavierleroy](http://pauillac.inria.fr/~xleroy/mpri/2-4/semantics.pdf)
+You can check what everybody will read [Wikipedia](https://en.wikipedia.org/wiki/Evaluation_strategy) which is a very good introduction to those concepts, or you would prefer to read words of "the king" [Xavier Leroy](http://pauillac.inria.fr/~xleroy/mpri/2-4/semantics.pdf)
