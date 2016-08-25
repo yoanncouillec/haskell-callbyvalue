@@ -20,4 +20,4 @@ You can check what everybody will read [Wikipedia](https://en.wikipedia.org/wiki
 
 ## Ok, but can you explain what a continuations is ?
 
-You really want to become a master huh ? Try the usual starter [Wikipedia](https://en.wikipedia.org/wiki/Continuation). Does an expert explains that ? [The Expert](http://pauillac.inria.fr/~xleroy/mpri/2-4/transformations.pdf).
+You really want to become a master huh ? Try the usual starter [Wikipedia](https://en.wikipedia.org/wiki/Continuation). Does an expert explains that ? [The Expert](http://pauillac.inria.fr/~xleroy/mpri/2-4/transformations.pdf) (start at slide 49).
