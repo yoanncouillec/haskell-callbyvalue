@@ -1,8 +1,8 @@
-# Coding in OCaml using Haskell
+# I want to code in OCaml but I just have Haskell
 
-You love Haskell, but you are bored with lazyness ?
+You love Haskell, but you are bored of lazyness ?
 
-Force Haskell, to behave like a call-by-value language using continuation.
+Force Haskell, to behave like a call-by-value language.
 
 ## Compile
 
@@ -27,3 +27,7 @@ You really want to become a master huh ? Try the usual starter [Wikipedia](https
 Does an expert explains that ? ([The Expert](http://pauillac.inria.fr/~xleroy/mpri/2-4/transformations.pdf) (start at slide 49)).
 
 Yes, I like parenthesis.
+
+## License
+
+Strictnize is made under the terms of the MIT license.
